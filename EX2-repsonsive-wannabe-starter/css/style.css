@@ -163,4 +163,13 @@ img {
     body::-webkit-scrollbar {
         display: none;
     }
+    h1 {
+        font-size: 4em;
+    }
+    h2 {
+        font-size: 3em;
+    }
+    p {
+        font-size: 1.5em;   
+    }
 }
