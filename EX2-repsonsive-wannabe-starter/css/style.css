@@ -139,9 +139,14 @@ img {
     .container {
         width: 100%;
     }
-
+    .lesson .col
+    .steps .col
+    .why-us .col {
+        width: 100%;
+    }
     .row {
         flex-direction: column;
+        /* width: 100%; */
         align-items: center;
     }
 
